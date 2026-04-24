@@ -1,0 +1,11 @@
+# Private configuration files
+*.env
+secrets.txt
+config_private.*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
